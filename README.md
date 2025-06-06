@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leilei-svg
-- 👀 I’m interested in becoming a Security Analyst
+- 👀 I’m interested in becoming a GRC Analyst
 - 🌱 I’m currently learning Cybersecurity
   
   
